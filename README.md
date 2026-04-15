@@ -32,6 +32,9 @@ Cada **bloco** contém:
 
 Exemplo de estrutura de um bloco:
 
+<img width="1149" height="685" alt="image" src="https://github.com/user-attachments/assets/0d1b2e90-1bb2-4381-8271-51f2b5c67873" />
+
+
 ```ts
 
 export interface Bloco {
@@ -46,5 +49,3 @@ export interface Bloco {
         hashAnterior: string
     }
 }
-
-![alt text](image.png)
